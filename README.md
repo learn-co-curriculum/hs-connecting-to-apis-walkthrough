@@ -1,8 +1,4 @@
----
-tags: api, apis
-languages: ruby
-type: intro
----
+
 
 ### Learning to Use APIs
 
