@@ -11,3 +11,5 @@ APIs are all different, but follow similar conventions. They receive instruction
 + **Read the documentation!!!!** This is the most important part. Since every API is different, you need to get to know the specific gem's functionality and figure out how to integrate the api.
 + In most cases, you'll want to integrate your API in as an object oriented class, so that it can be extended and modified easily in your code.
 
+
+<a href='https://learn.co/lessons/hs-connecting-to-apis-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
