@@ -12,4 +12,4 @@ APIs are all different, but follow similar conventions. They receive instruction
 + In most cases, you'll want to integrate your API in as an object oriented class, so that it can be extended and modified easily in your code.
 
 
-<a href='https://learn.co/lessons/hs-connecting-to-apis-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-connecting-to-apis-walkthrough' title='Learning to Use APIs'>Learning to Use APIs</a> on Learn.co and start learning to code for free.</p>
